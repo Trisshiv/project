@@ -1,0 +1,38 @@
+body {
+    background-size: cover;
+}
+
+#header {
+    font-size: 20px;
+    width: 99.5%;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+h4 {
+    color: black;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+input {
+    width: 35%;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+canvas {
+    background-color: white;
+    border-radius: 10px; 
+    box-shadow: 10px 10px 20px grey;
+    border-color: black;
+}
+
+div {
+    height: 60px;
+}
